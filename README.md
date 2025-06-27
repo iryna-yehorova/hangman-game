@@ -3,6 +3,8 @@
 This is a console-based Hangman game written in Python.  
 It's part of the **100 Days of Code** course by Angela Yu.
 
+📅 **Progress: Day 7**
+
 ## 💡 How to Run
 ```bash
 python main.py
