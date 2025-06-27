@@ -37,7 +37,7 @@ while not game_over:
         elif letter in correct_letters:
             display += letter + " "
         else:
-            display += "_"
+            display += "_ "
 
     print("Word to guess: " + display)
 
